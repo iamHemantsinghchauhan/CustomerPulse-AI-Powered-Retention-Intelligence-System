@@ -174,31 +174,6 @@ Interactive Gradio App
 
 ---
 
-# 📂 Project Structure
-
-```plaintext
-CustomerPulse-Retention-Intelligence-System/
-│
-├── Assets/
-│   └── dashboard_preview.png
-│
-├── Dataset/
-│   └── customer_churn_dataset.csv
-│
-├── Notebooks/
-│   ├── Customer_Churn_EDA.ipynb
-│   └── Customer_Churn_Model.ipynb
-│
-├── Application/
-│   └── app.py
-│
-├── Reports/
-│   └── Customer_Churn_Report.docx
-│
-├── requirements.txt
-│
-└── README.md
-```
 
 ---
 
