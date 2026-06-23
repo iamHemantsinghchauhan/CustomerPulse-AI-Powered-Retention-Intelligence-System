@@ -68,12 +68,6 @@ This project delivers a complete retention intelligence solution:
 
 ---
 
-# 📸 Application Preview
-
-<p align="center">
-<img src="Assets/dashboard_preview.png" width="100%">
-</p>
-
 ---
 
 # ⚙️ Solution Workflow
